@@ -1931,9 +1931,12 @@
 	.our_contact .left-detail {
 		width: 100%;
 	}
+	
 	.right-detail-map{
+		margin-left: -5%;
+
 		height: 352px;
-    	width: 320px;
+    	width: 115%;
 	}
 	.our_contact .right-detail {
 		display: block;

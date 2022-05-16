@@ -158,6 +158,7 @@
 }
 .pe-7s-angle-right:before {
 	content: "\e684";
+	background-color: #f38929;
 }
 .pe-7s-volume:before {
 	content: "\e692";
